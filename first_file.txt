@@ -4,3 +4,6 @@ This is my first file
 Adding a second line
 
 3rd line
+
+4th line
+
